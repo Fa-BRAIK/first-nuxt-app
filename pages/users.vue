@@ -2,15 +2,18 @@
   <div class="container">
     <div>
       <h1 class="title">
-        My very first Vue / Nuxt application
+        This is the users page
       </h1>
     </div>
   </div>
 </template>
 
 <script>
-export default {}
+export default {
+
+}
 </script>
+
 
 <style>
 .container {
