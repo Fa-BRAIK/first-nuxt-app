@@ -1,8 +1,5 @@
 <template>
   <div>
-    <nuxt />
+    an error occured we're sorry
   </div>
 </template>
-
-<style>
-</style>
